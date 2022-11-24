@@ -1,5 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Anna</a> 
-A frontend developer from Belarus
+  <h3 align="center">A frontend developer from Belarus</h3>
+
 
 What I know
 - Strong knowledge of modern native JavaScript, HTML/CSS3
