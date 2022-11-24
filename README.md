@@ -1,4 +1,4 @@
-### Hi I'm Anna Tarasova
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Anna</a> 
 A frontend developer from Belarus
 
 What I know
@@ -6,3 +6,4 @@ What I know
 - Have experience with React (Redux)
 - Also known TypeScript
 - Like to explore and lern new technologies
+Image alt
