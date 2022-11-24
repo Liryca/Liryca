@@ -3,10 +3,10 @@
   <h3 align="center">A frontend developer from Belarus</h3>
 
 <p align="center">What I Know </p>
-<p aligan="center">- Strong knowledge of modern native JavaScript, HTML/CSS3 </p>
-<p aligan="center">- Have experience with React (Redux) </p>
-<p aligan="center">- Also known TypeScript</p>
-<p aligan="center">- Like to explore and lern new technologies </p>
+<p align="center">- Strong knowledge of modern native JavaScript, HTML/CSS3 </p>
+<p align="center">- Have experience with React (Redux) </p>
+<p align="center">- Also known TypeScript</p>
+<p align="center">- Like to explore and lern new technologies </p>
 
 
 
