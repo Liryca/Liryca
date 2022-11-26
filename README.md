@@ -8,7 +8,9 @@
 <p>- Also known TypeScript</p>
 <p >- Like to explore and lern new technologies </p>
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
+</div>
 
 
 
