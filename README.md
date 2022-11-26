@@ -1,4 +1,6 @@
-<h1>Hi there, I'm Anna Tarasova
+<h1><div id="header">
+  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif"/>
+</div>Hi there, I'm Anna Tarasova
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <h3>A frontend developer from Belarus</h3>
 
@@ -8,9 +10,7 @@
 <p>- Also known TypeScript</p>
 <p >- Like to explore and lern new technologies </p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="100"/>
-</div>
+
 
 
 
