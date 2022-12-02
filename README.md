@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, I'm Anna Tarasova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+    <h1>Hi there, I'm Anna Tarasova <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width='32'/></h1>
   
  <img width='200' heght='200' src="https://media.giphy.com/media/aEwLTJvYxwo1L09oyP/giphy.gif"/>
 
